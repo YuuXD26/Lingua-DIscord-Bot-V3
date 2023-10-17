@@ -1,0 +1,42 @@
+{
+  "y": "<:success:1160601683798270042>",
+  "m": "<a:utility:1160603955668205679>",
+  "x": "<:cancel:1160601546816503848>",
+  "music": {
+    "searching": "<a:FP_OrangeLoading:1160604212007288853>",
+    "play": "<:BlazeOrange:1160604744620986478>",
+    "playImg": "bbbhttps://media.discordapp.net/attachments/1160768051407487047/1160895895508877343/20231009_163506_0000.png?ex=6536538d&is=6523de8d&hm=423396c22d6ecfb6ab619509c4272890e52e9e0b7c763472f184ee47b12e4fc4&bbbbb",
+    "pause": "⏸️",
+    "resume": "▶️",
+    "skip": "⏭️",
+    "queue": "📑",
+    "stop": "⏹",
+    "volume": "🔊",
+    "loop": "🔂",
+    "autoplay": "🔁",
+    "shuffle": "🔀",
+    "less10Sec": "⏪",
+    "forward10Sec": "⏩",
+    "negative10vol": "🔉",
+    "plus10vol": "🔊"
+  },
+  "musicButtons": {
+    "pause": "⏸️",
+    "resume": "▶️",
+    "skip": "⏭️",
+    "queue": "📑",
+    "lyrics": "📝",
+    "stop": "⏹",
+    "loop": "🔂",
+    "autoplay": "🔁",
+    "shuffle": "🔀",
+    "less10Sec": "⏪",
+    "forward10Sec": "⏩",
+    "negative10vol": "🔉",
+    "plus10vol": "🔊"
+  },
+  "giveaway": {
+    "react": "<:Gift_Orange:1160894214540898334>",
+    "drop": "<:Gift_Orange:1160894214540898334>"
+  }
+}

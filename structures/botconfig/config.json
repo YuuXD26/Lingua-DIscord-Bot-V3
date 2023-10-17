@@ -1,0 +1,33 @@
+{
+    "env": {
+        "TOKEN": "",
+        "PREFIX": "!",
+        "MongoDB_TOKEN": "",
+        "INVITE": "https://discord.com/api/oauth2/authorize?client_id=1162327966110457928&permissions=271583264&scope=bot",
+        "WEBSITE": "",
+        "google_API": "",
+        "google_Engine_id": "",
+        "news_API": "",
+        "giphy_API": ""
+    },
+    "music": {
+        "musicRequestImage": ""
+    },
+    "botlogs": {
+        "inviteLogs": "",
+        "feedbackChannel": "",
+        "bugChannel": "",
+        "suggestionChannel": "",
+        "commandLogsChannel": "",
+        "errorLogsChannel": "",
+        "premiumLogChannel": ""
+    },
+    "events": {
+        "Enable_debug": false
+    },
+    
+    "ownerID": [""],
+    "SlashCommandsGlobal": true,
+    "SlashCommand_Server_id": "",
+    "Enable_MongoDB": true
+}
